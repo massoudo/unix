@@ -1,12 +1,8 @@
 
-### **List of scripts:**
-* sapstart
-* other
+### **LIST OF SCRIPTS:**
 
-### **Description:**
-
-### :point_right:   **SAPSTART**
+### :point_right:   **sapstart**
 Start and stop SAP instances following a dependency order
 
-### :point_right:   **OTHER**
+### :point_right:   **other**
 (in progress) :trollface:
