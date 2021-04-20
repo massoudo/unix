@@ -1,6 +1,6 @@
 ## **sapstart.sh**  
 Start and stop SAP instances following a dependency order.  
-Works on SAP NW and HANA DB. Useful for using with unix/linux *init*.  
+Works on SAP NW and HANA DB. Useful for using with unix/linux *init.d*.  
   
 Usage:    `sapstart.sh start|stop|status`  
 
